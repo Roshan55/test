@@ -3,5 +3,3 @@ print "Hello World"
 line no 2
 
 pizza
-
-burger
